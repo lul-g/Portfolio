@@ -1,0 +1,31 @@
+ body {
+   
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    line-height: 1.6;
+    letter-spacing: .8px;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 250px;
+ }
+#form-submitted span{
+    color: #cb2d3e;
+} 
+.btn-md {
+    display: inline-block;
+    background: linear-gradient(to right, #cb2d3e, #ef473a);
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 36px;
+    margin-top: 20px;
+    border: 2px solid #cb2d3e;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+.btn-md:hover {
+    color: #cb2d3e;
+    background: none;
+}
