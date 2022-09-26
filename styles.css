@@ -935,8 +935,7 @@ section {
 .contact .contact-content .right .links li {
     display: inline-block;
     list-style: none;
-    padding-right: 45px;
-    display: inline-block;
+    padding-right: 5px;
     align-items: center;
 }
 
@@ -944,7 +943,9 @@ section {
     margin-left: 50px;
     text-decoration: none;
 }
-
+.contact .right .break i {
+    font-size: 30px;
+}
 #footer {
     text-align: center;
     background: black;
